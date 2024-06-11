@@ -17,7 +17,7 @@ The official Battle for Wesnoth Forums:
   <https://forums.wesnoth.org/>
 
 Discord:
-  <https://discord.gg/battleforwesnoth>
+  <img alt="Discord" src="https://img.shields.io/discord/battleforwesnoth?logo=discord&logoColor=white&color=5865F2">
 
 IRC:
   <https://wiki.wesnoth.org/Support#IRC>
@@ -45,10 +45,10 @@ Installing
 
 Wesnoth can be played on Windows, macOS, and Linux, and can be installed using:
 * [Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) (all)
-* [itch.io](https://wesnoth.itch.io/battle-for-wesnoth) (Windows and macOS)
+* [<img width='60' alt='itch.io' src='https://static.itch.io/images/badge-color.svg'>](https://wesnoth.itch.io/battle-for-wesnoth) (Windows and macOS)
 * The [macOS App Store](https://apps.apple.com/us/app/the-battle-for-wesnoth/id1450738104)
 * standalone installers on [SourceForge](https://sourceforge.net/projects/wesnoth/files/) (Windows and macOS)
-* [Flatpak](https://flathub.org/apps/details/org.wesnoth.Wesnoth) (Linux)
+* <a href='https://flathub.org/apps/details/org.wesnoth.Wesnoth'><img width='60' alt='Flatpak' src='https://flathub.org/api/badge?locale=en'/></a> (Linux)
 
 Additionally, Wesnoth is available for [iOS](https://apps.apple.com/us/app/battle-for-wesnoth/id575852062) and [Android](https://play.google.com/store/apps/details?id=it.alessandropira.wesnoth114).
 
