@@ -23,7 +23,10 @@ IRC:
   <https://wiki.wesnoth.org/Support#IRC>
 
 Mastodon:
-  <https://fosstodon.org/@wesnoth>
+  <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109373769585660955?domain=https%3A%2F%2Ffosstodon.org%2F&style=plastic&logo=mastodon&logoColor=ffffff&color=6364FF&link=https%3A%2F%2Ffosstodon.org%2F%40wesnoth">
+
+
+
 
 Steam forums:
   <https://steamcommunity.com/app/599390/discussions/>
