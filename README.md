@@ -80,6 +80,9 @@ Donations
 
 Donations can be sent via [Software in the Public Interest](https://www.spi-inc.org/projects/wesnoth/), [Liberapay](https://liberapay.com/Wesnoth), as well as when downloading through itch.io. All money donated is used to pay for project expenses such as server rent and art commissions, and is very much appreciated.
 
+### Liberapay Stats
+<img alt="Liberapay giving" src="https://img.shields.io/liberapay/gives/Liberapay"> <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/Wesnoth"> <img alt="Liberapay patrons" src="https://img.shields.io/liberapay/patrons/Wesnoth"> <img alt="Liberapay receiving" src="https://img.shields.io/liberapay/receives/Wesnoth">
+
 
 License
 -------
