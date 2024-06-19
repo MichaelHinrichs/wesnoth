@@ -49,12 +49,11 @@ Installing
 Wesnoth can be played on Windows, macOS, and Linux, and can be installed using:
 * [Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) (all)
 * [<img height='20' alt='itch.io' src='https://static.itch.io/images/badge-color.svg'>](https://wesnoth.itch.io/battle-for-wesnoth) (Windows and macOS)
-* The [<img alt="macOS App Store" src="https://img.shields.io/itunes/v/575852062?label=macOS%20App%20Store">
-](https://apps.apple.com/us/app/the-battle-for-wesnoth/id1450738104)
+* [<img height='20' alt="The macOS App Store" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg">](https://apps.apple.com/us/app/the-battle-for-wesnoth/id1450738104) <img src="https://img.shields.io/itunes/v/575852062?label=macOS%20App%20Store">
 * standalone installers on [<img alt="SourceForge" src="https://img.shields.io/badge/wesnoth-FF6600?style=plastic&logo=sourceforge&label=SourceForge&link=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fwesnoth%2Ffiles%2F">](https://sourceforge.net/projects/wesnoth/files/) (Windows and macOS)
 * <a href='https://flathub.org/apps/details/org.wesnoth.Wesnoth'><img height='20' alt='Flatpak' src='https://flathub.org/api/badge?locale=en'/></a> (Linux)
 
-Additionally, Wesnoth is available for [<img alt="iTunes App Store" src="https://img.shields.io/itunes/v/1450738104?label=IOS">](https://apps.apple.com/us/app/battle-for-wesnoth/id575852062) and [Android](https://play.google.com/store/apps/details?id=it.alessandropira.wesnoth114).
+Additionally, Wesnoth is available for [<img alt="iTunes App Store" height='20' src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg">](https://apps.apple.com/us/app/battle-for-wesnoth/id575852062) <img src="https://img.shields.io/itunes/v/1450738104?label=IOS"> and [Android](https://play.google.com/store/apps/details?id=it.alessandropira.wesnoth114).
 
 To build the game from source, see [INSTALL](/INSTALL.md) for instructions.
 
